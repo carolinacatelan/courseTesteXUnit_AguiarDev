@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVendas", "SistemaVendas\SistemaVendas.csproj", "{F32ED71E-A7DC-43F0-912A-AE1071D0DDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVendas.TestesUnitarios", "SistemaVendas.TestesUnitarios\SistemaVendas.TestesUnitarios.csproj", "{CABE3045-F122-46A2-8FEC-ACC29141D2C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32ED71E-A7DC-43F0-912A-AE1071D0DDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32ED71E-A7DC-43F0-912A-AE1071D0DDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32ED71E-A7DC-43F0-912A-AE1071D0DDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32ED71E-A7DC-43F0-912A-AE1071D0DDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABE3045-F122-46A2-8FEC-ACC29141D2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABE3045-F122-46A2-8FEC-ACC29141D2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABE3045-F122-46A2-8FEC-ACC29141D2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABE3045-F122-46A2-8FEC-ACC29141D2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

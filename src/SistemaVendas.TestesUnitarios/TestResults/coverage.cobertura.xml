@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.6774" branch-rate="0.8332999999999999" version="1.9" timestamp="1651237001" lines-covered="21" lines-valid="31" branches-covered="5" branches-valid="6">
+  <sources>
+    <source>C:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\</source>
+  </sources>
+  <packages>
+    <package name="SistemaVendas" line-rate="0.6774" branch-rate="0.8332999999999999" complexity="11">
+      <classes>
+        <class name="SistemaVendas.Vendas" filename="Entidade\Vendas.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Data" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Valor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="6" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="3" branch="False" />
+            <line number="8" hits="6" branch="False" />
+          </lines>
+        </class>
+        <class name="SistemaVendas.FreteNegocio" filename="Negocio\FreteNegocio.cs" line-rate="1" branch-rate="0.8332999999999999" complexity="6">
+          <methods>
+            <method name="CalcularFrete" signature="(System.Int32)" line-rate="1" branch-rate="0.8332999999999999" complexity="6">
+              <lines>
+                <line number="6" hits="17" branch="False" />
+                <line number="7" hits="17" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="10" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="8" hits="5" branch="False" />
+                <line number="9" hits="5" branch="False" />
+                <line number="11" hits="12" branch="True" condition-coverage="75% (3/4)">
+                  <conditions>
+                    <condition number="28" type="jump" coverage="50%" />
+                    <condition number="40" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="12" hits="9" branch="False" />
+                <line number="13" hits="9" branch="False" />
+                <line number="16" hits="3" branch="False" />
+                <line number="17" hits="3" branch="False" />
+                <line number="19" hits="17" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="17" branch="False" />
+            <line number="7" hits="17" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="10" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="8" hits="5" branch="False" />
+            <line number="9" hits="5" branch="False" />
+            <line number="11" hits="12" branch="True" condition-coverage="75% (3/4)">
+              <conditions>
+                <condition number="28" type="jump" coverage="50%" />
+                <condition number="40" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="12" hits="9" branch="False" />
+            <line number="13" hits="9" branch="False" />
+            <line number="16" hits="3" branch="False" />
+            <line number="17" hits="3" branch="False" />
+            <line number="19" hits="17" branch="False" />
+          </lines>
+        </class>
+        <class name="SistemaVendas.VendasNegocio" filename="Negocio\VendasNegocio.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="CalcularMediaMensal" signature="(System.Int16,System.Int16)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+                <line number="19" hits="4" branch="False" />
+                <line number="21" hits="1" branch="False" />
+                <line number="22" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(SistemaVendas.IVendasRepositorio)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="1" branch="False" />
+                <line number="11" hits="1" branch="False" />
+                <line number="12" hits="1" branch="False" />
+                <line number="13" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+            <line number="19" hits="4" branch="False" />
+            <line number="21" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
+            <line number="11" hits="1" branch="False" />
+            <line number="12" hits="1" branch="False" />
+            <line number="13" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="SistemaVendas.VendasRepositorio" filename="Repositorio\VendasRepositorio.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="BuscarVendas" signature="(System.Int16,System.Int16)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="False" />
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="False" />
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

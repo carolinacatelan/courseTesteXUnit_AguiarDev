@@ -1,0 +1,12 @@
+c:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\obj\Debug\net6.0\SistemaVendas.csproj.AssemblyReference.cache
+c:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\obj\Debug\net6.0\SistemaVendas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\obj\Debug\net6.0\SistemaVendas.AssemblyInfoInputs.cache
+c:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\obj\Debug\net6.0\SistemaVendas.AssemblyInfo.cs
+c:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\obj\Debug\net6.0\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\bin\Debug\net6.0\SistemaVendas.deps.json
+C:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\bin\Debug\net6.0\SistemaVendas.dll
+C:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\bin\Debug\net6.0\SistemaVendas.pdb
+C:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\obj\Debug\net6.0\SistemaVendas.dll
+C:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\obj\Debug\net6.0\refint\SistemaVendas.dll
+C:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\obj\Debug\net6.0\SistemaVendas.pdb
+C:\Users\anacarolinacs\Documents\Kilimanjaro\TesteXUnit\SistemaVendas\obj\Debug\net6.0\ref\SistemaVendas.dll
